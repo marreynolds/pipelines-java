@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/test-pipelines/testing/_apis/build/status/testing-Maven-CI?branchName=master)](https://dev.azure.com/test-pipelines/testing/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
